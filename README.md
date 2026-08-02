@@ -12,3 +12,9 @@
 | [George Hotz](https://geohot.github.io/blog/) | AI automation, multi-agent systems, low-level systems, and technology economics | Connects engineering, hardware, business, and social impact. His views are sharp and original, but best read critically. |
 | [Ben Recht](https://www.argmin.net/) | Machine learning evaluation, optimization, control theory, and AI criticism | Questions mismatches between benchmarks, objective functions, and product value, helping readers identify hidden assumptions in AI systems. |
 | [Lilian Weng](https://lilianweng.github.io/) | Agent architecture, reasoning, self-improvement, and AI safety | Publishes infrequently, but each article is technically dense and typically synthesizes the literature on agents, harness engineering, and capability development. |
+
+## Appendix: Supplementary Reading (Lower Priority)
+
+| Author | Field | Why it is supplementary |
+|---|---|---|
+| [Alex Lavaee](https://alexlavaee.me/blog/) | Coding-agent workflows, context engineering, and agent infrastructure | Frequent, practical writing with useful workflow templates and implementation ideas. Read selectively: engineering advice is more reliable than its broad theory, model-comparison, or trend claims; verify primary sources before relying on those claims. |
