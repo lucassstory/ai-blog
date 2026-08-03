@@ -20,7 +20,7 @@
 |---|---|---|
 | [Simon Willison](https://simonwillison.net/) | LLMs, agent engineering, tool use, security, and open-source ecosystem | A high-frequency technical intelligence source: tracks primary announcements, papers, code, and industry events, then adds experienced engineering context and useful skepticism. Best for discovery and judgment rather than as a steady source of deep, evergreen technical articles. |
 
-## Appendix: Supplementary Reading (Lower Priority)
+## Appendix: Supplementary Reading
 
 | Author | Field | Why it is supplementary |
 |---|---|---|
